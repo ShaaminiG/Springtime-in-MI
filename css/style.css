@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif, arial, Helvetica;
+    margin: 20px;
+    font-size: 20px;
+    background-color: #bddfd1;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #081a12;
+    color: white;
+}
+header{
+    text-align: center;
+    background-color: #5a9171;
+    color: rgb(104, 11, 62);
+}
+main{
+    background-color: #9fd4ba;
+    font-size: 20px;
+}
+footer{
+    background-color: #bfdbcb;
+    color: rgb(29, 29, 29);
+    font-size: 15px;
+    font-style: italic;
+}
+h1{
+    font-family: Cambria, Cochin, Arial;
+    text-align: center;
+    color: rgb(104, 11, 62);
+}
+p{
+    line-height: 2;
+}
+li{
+    display: inline-block;
+    width: 250px;
+}
